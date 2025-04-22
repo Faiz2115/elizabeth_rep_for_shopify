@@ -57,6 +57,9 @@
 .whitespace-nowrap {
   white-space: nowrap;
 }
+.capitalize {
+  text-transform: capitalize;
+}
 @property --tw-rotate-x {
   syntax: "*";
   inherits: false;
