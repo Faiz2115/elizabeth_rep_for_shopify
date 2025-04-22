@@ -1,9 +1,26 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "name" : "Template 404",
-    "sections":{
-        "template":{
-            "type": "template-404"
-        }
-    },
-    "order": ["template"]
+  "sections": {
+    "template": {
+      "type": "template-404",
+      "custom_css": [
+        "h1{color: red; font-size: 48px; }"
+      ],
+      "settings": {
+        "title": "4043",
+        "subtext_title": "The page u are looking for is not found!"
+      }
+    }
+  },
+  "order": [
+    "template"
+  ]
 }
