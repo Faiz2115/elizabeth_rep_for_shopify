@@ -11,6 +11,9 @@
   "sections": {
     "template": {
       "type": "template-404",
+      "custom_css": [
+        "h1{color: red; font-size: 48px; }"
+      ],
       "settings": {
         "title": "4043",
         "subtext_title": "The page u are looking for is not found!"
